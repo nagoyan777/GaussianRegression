@@ -1,0 +1,6 @@
+*.code-workspace
+__pycache__/
+*.pyc
+*.MacBookPro*
+*~
+.DS_Store
